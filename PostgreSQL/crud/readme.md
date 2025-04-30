@@ -1,3 +1,4 @@
+```bash
 📦 project/
 ├── 📜 connection.py      # DB connection & sessions
 ├── 📜 model.py          # SQLAlchemy ORM models
@@ -7,3 +8,4 @@
 ├── 🔒 .env              # DB credentials
 ├── 📊 data.log          # Application logs
 └── 📝 requirements.txt  # Dependencies
+```
