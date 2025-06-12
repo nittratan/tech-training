@@ -1,0 +1,13 @@
+[project]
+name = "nextgen-api"
+version = "0.1.0"
+description = "API for 5Ws extraction from documents"
+authors = [{name = "Your Name", email = "your.email@example.com"}]
+requires-python = ">=3.8"
+dependencies = [
+    "fastapi>=0.95.0",
+    "uvicorn>=0.21.0",
+    "pydantic>=1.10.0",
+    "python-multipart>=0.0.5",
+    "pytest>=7.0.0",
+]
